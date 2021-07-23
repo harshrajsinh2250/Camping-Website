@@ -1,7 +1,7 @@
 # YelpCamp
 
 ## Demo
-https://yelp-camp-sulbha.herokuapp.com/
+https://yelp-camp-harshrajsinhsolanki.herokuapp.com/
 
 ## Build and Run
 
@@ -15,7 +15,7 @@ https://yelp-camp-sulbha.herokuapp.com/
 ### Run Software
 
 1. Clone Repo
-   - `$> git clone https://github.com/sulbhagarg/YelpCamp.git
+   - `$> git clone https://github.com/harshrajsinh2250/Camping-Website
 2. Change Directory
    - `$> cd YelpCamp/`
 3. Install Dependencies
