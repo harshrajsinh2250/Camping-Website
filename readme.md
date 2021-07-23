@@ -1,7 +1,5 @@
 # YelpCamp
 
-## Demo
-https://yelp-camp-harshrajsinhsolanki.herokuapp.com/
 
 ## Build and Run
 
